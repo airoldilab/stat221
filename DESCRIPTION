@@ -5,3 +5,5 @@ Authors@R: "Gabor Csardi <csardi.gabor@gmail.com> [aut, cre]"
 Description: All code for the Stat 221 class
 License: MIT + file LICENSE
 LazyData: true
+Imports:
+    mvtnorm
